@@ -1,13 +1,7 @@
 import React from 'react';
-import styled from 'styled-components';
 
+import { SampleHeader } from './header.styled';
 import './header.scss';
-
-const SampleHeader = styled.h2`
-  color: hotpink;
-  font-weight: bold;
-  font-size: 2rem;
-`;
 
 const Header = () => (
   <header>
