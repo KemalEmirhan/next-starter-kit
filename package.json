@@ -26,7 +26,7 @@
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "next": "11.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "styled-components": "^5.0.0"
